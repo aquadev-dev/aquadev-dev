@@ -6,3 +6,9 @@
 - 🛠️ I am Currently Working on a Java Game Engine utilising LWJGL and imGUI
 - 🧠 I'm learning about 'Real Time Graphics' and 'Game Engine Architecture'
 - 💻 All of my projects are available on my website (https://aquadev.org/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+</p>
+
