@@ -12,8 +12,6 @@
   <a href="https://www.linkedin.com/in/aquadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aquadev/" height="30" width="40"></a>
 </p>
 
----
-
 <h3 align="left">Technologies that I am familiar with:</h3>
 <div align="start">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" hieght="50" width="60">
@@ -31,3 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" hieght="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" hieght="50" width="60">
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquadev-dev&show_icons=true&layout=donut&theme=transparent" alt="aquadev__" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquadev-dev&show_icons=true&theme=transparent" alt="aquadev__" /></p>
