@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aquadev-dev&style=flat">
 
-- 🛠️ I am Currently Working on a Java Game Engine utilising LWJGL and imGUI
+- 🛠️ I am Currently Working on a Java Game Engine utilizing LWJGL and imGUI
 - 🧠 I'm learning about 'Real Time Graphics' and 'Game Engine Architecture'
 - 💻 All of my projects are available on my website (https://aquadev.org/)
 
@@ -14,8 +14,9 @@
 
 <h3 align="left">Technologies that I am familiar with:</h3>
 <div align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" hieght="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" hieght="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" hieght="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" hieght="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" hieght="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" hieght="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" hieght="50" width="60">
