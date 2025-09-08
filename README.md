@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aquadev-dev&style=flat">
 
-- 🧠 I'm learning about 'Real Time Graphics' and 'Game Engine Architecture'
+- 🧠 I'm in my final year of my course learning about 'Data Driven Artificial Intelligence' and 'Advanced Game Development' techniques 
 - 💻 All of my projects are available on my website (https://aquadev.org/)
 
 <h3 align="left">Connect with me:</h3>
