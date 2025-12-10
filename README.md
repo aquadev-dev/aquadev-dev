@@ -33,6 +33,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" hieght="50" width="60">
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquadev-dev&show_icons=true&layout=donut&theme=transparent" alt="aquadev__" /></p>
+[![AquaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquadev-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquadev-dev&show_icons=true&theme=transparent" alt="aquadev__" /></p>
