@@ -33,5 +33,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" hieght="50" width="60">
 </div>
 
-[![AquaDev's GitHub stats] (https://github-readme-stats.vercel.app/api?username=aquadev-dev)] (https://github.com/anuraghazra/github-readme-stats)
+[![AquaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquadev-dev)](https://github.com/anuraghazra/github-readme-stats)
 
