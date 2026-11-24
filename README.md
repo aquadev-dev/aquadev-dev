@@ -1,10 +1,10 @@
 <h1 align="center">Hey there, I'm Nathan (A.K.A AquaDev)</h1>
-<h3 align="center">I'm a Computer Science with Games Programming student who programs in their free time.</h3>
+<h3 align="center">I'm a Data Science and Applied AI student who loves to program in his free time.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aquadev-dev&style=flat">
 
-- 🧠 I'm in my final year of my course learning about 'Data Driven Artificial Intelligence' and 'Advanced Game Development' techniques 
-- 💻 All of my projects are available on my website (https://aquadev.org/)
+- 🧠 Currently I'm studying Data Science and Applied AI MSc FT as The University of Huddersfield
+- 💻 My website is currently undergoing some renovations (End of Jan 2027 👀 hopefully.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
